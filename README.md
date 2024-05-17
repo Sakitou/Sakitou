@@ -1,7 +1,7 @@
 # About me
 
 Hi ! I am Sakitou, an **apprentice** developer 🐍🖥️💾
-I live in France 🇫🇷
+I live in Swiss 🇨🇭
 I like cookies 🍪
 ### Contact
-You can contact me at `sakitou@proton.me` **or** `sakitou@duck.com` 🦆
+You can contact me at `sakitou@pm.me`
